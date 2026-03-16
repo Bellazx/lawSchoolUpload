@@ -1,0 +1,30 @@
+{
+  "name": "law-school-upload-frontend",
+  "version": "1.0.0",
+  "description": "法学院名单上传系统前端",
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2",
+    "element-ui": "^2.15.13",
+    "axios": "^0.27.2",
+    "nprogress": "^0.2.0",
+    "js-cookie": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "vue-template-compiler": "^2.6.14",
+    "sass": "^1.49.9",
+    "sass-loader": "^10.2.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
